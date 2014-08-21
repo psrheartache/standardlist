@@ -9,8 +9,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.wistron.swpc.commonlib.listviewdemo.R;
-
 /**
  * Main Activity 
  * The main display area, and provide context
