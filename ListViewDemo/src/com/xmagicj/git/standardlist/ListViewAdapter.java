@@ -11,8 +11,6 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.wistron.swpc.commonlib.listviewdemo.R;
-
 /**
  * ListViewAdapter extends BaseAdapter
  * 此Demo展示了一個Icon + title + content 的List
